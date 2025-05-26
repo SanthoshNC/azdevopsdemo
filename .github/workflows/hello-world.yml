@@ -7,3 +7,12 @@ jobs:
     steps:
        - name: Hello World
          run: echo "Hello World Job"
+
+       - name: Code Checkout
+         uses: actions/checkout@v4
+
+       - name: List the files
+         run: ls -lrt
+
+       - name: View the todolist file
+         run: cat todolist.md
