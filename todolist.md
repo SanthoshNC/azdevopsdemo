@@ -1,3 +1,6 @@
 - Preparation for Training
 - Give the Training
 - Closing the Training
+- Cycling
+- Vault Prep
+- Jenkins Setup
