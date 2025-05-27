@@ -13,7 +13,7 @@ pipeline {
         }
         stage('Deploy') {
             steps {
-                echo "SanthoshNC - Build Step"
+                echo "SanthoshNC - Deploy Step"
             }
         }
     }
